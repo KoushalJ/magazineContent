@@ -1,3 +1,4 @@
+import kanha from '../src/assets/img/kanha.jpg'
 export const App = () => {
   return(
    <>
@@ -757,6 +758,9 @@ export const App = () => {
                   <h2 className="section-heading__title">Meet Our Team
                   </h2>
                   <p className="section-heading__desc">Certainly! Here&#039;s an introduction to the team at our IT company:</p>
+                  <div className='mt-4'>
+                  <div className="testimonails-card"><div className="testimonial-item position-relative"><div className="testimonial-item__quate"><i className="fas fa-quote-right"></i></div><div className="testimonial-item__thumb"><img src={kanha} alt="testimonial"/></div><div className="testimonial-item__content"><div className="testimonial-item__info"><div className="testimonial-item__details"><h5 className="testimonial-item__name">Er. Sanskar Sharma</h5><span className="testimonial-item__designation">CEO of Magazine</span></div></div><p className="testimonial-item__desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum ipsa ducimus placeat alias esse consectetur? Enim facilis impedit aliquam molestias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum ipsa ducimus placeat alias esse consectetur? Enim facilis impedit aliquam molestias.</p><div className="testimonial-item__rating"><ul className="rating-list"><li className="rating-list__item"><i className="fas fa-star"></i></li><li className="rating-list__item"><i className="fas fa-star"></i></li><li className="rating-list__item"><i className="fas fa-star"></i></li><li className="rating-list__item"><i className="fas fa-star"></i></li><li className="rating-list__item"><i className="fas fa-star"></i></li></ul></div></div></div></div>
+                  </div>
                </div>
             </div>
          </div>
@@ -1149,7 +1153,7 @@ export const App = () => {
          </div>
       </div>
    </div>
-   {/* <footer className="footer-area section-bg-light bg-img" style="background-image: url(https://digitalindiahelpline.com/assets/presets/themesThree/images/footer-bg.jpg)">
+   <footer className="footer-area section-bg-light bg-img">
       <div className="pb-60 pt-80">
          <div className="container">
             <div className="row justify-content-center gy-5">
@@ -1292,7 +1296,7 @@ export const App = () => {
             </div>
          </div>
       </div>
-   </footer> */}
+   </footer>
 </div>
    </>
   );
