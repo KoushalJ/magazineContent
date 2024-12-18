@@ -9,8 +9,8 @@ export const App = () => {
             <div className="top-header-wrapper">
                <div className="top-contact">
                   <ul className="contact-list">
-                     <li className="contact-list__item"> <span className="contact-list__item-icon"><i className="fas fa-phone"></i></span><a href="tel:+91 80500 61666" className="contact-list__link"> +91 80500 61666</a></li>
-                     <li className="contact-list__item"> <span className="contact-list__item-icon"><i className="fas fa-envelope"></i></span><a href="mailto:support@digitalindiahelpline.com" className="contact-list__link"> support@digitalindiahelpline.com</a></li>
+                     <li className="contact-list__item"> <span className="contact-list__item-icon"><i className="fas fa-phone"></i></span><a href="tel:+91 80500 61666" className="contact-list__link"> +91 7415102200 </a></li>
+                     <li className="contact-list__item"> <span className="contact-list__item-icon"><i className="fas fa-envelope"></i></span><a href="mailto:support@digitalindiahelpline.com" className="contact-list__link"> support@magindiahelpline.com</a></li>
                   </ul>
                </div>
                <div className="top-button">
@@ -22,11 +22,11 @@ export const App = () => {
                   <ul className="login-registration-list d-flex flex-wrap justify-content-between align-items-center ms-2">
                      <li className="login-registration-list__item">
                         <ul className="social-list">
-                           <li className="social-list__item"><a href="https://www.youtube.com/channel/UCLcgMzz8BL2mTSLPauZuJzQ" className="social-list__link"><i className="fab fa-youtube"></i></a> </li>
-                           <li className="social-list__item"><a href="https://www.linkedin.com/" className="social-list__link"><i className="fab fa-linkedin"></i></a> </li>
-                           <li className="social-list__item"><a href="https://www.instagram.com/" className="social-list__link"><i className="fab fa-instagram"></i></a> </li>
-                           <li className="social-list__item"><a href="https://twitter.com/i/flow/login" className="social-list__link"><i className="fab fa-twitter"></i></a> </li>
-                           <li className="social-list__item"><a href="https://www.facebook.com/" className="social-list__link"><i className="fab fa-facebook-f"></i></a> </li>
+                           <li className="social-list__item"><a href="testttps://www.youtube.com/channel/UCLcgMzz8BL2mTSLPauZuJzQ" className="social-list__link"><i className="fab fa-youtube"></i></a> </li>
+                           <li className="social-list__item"><a href="testttps://www.linkedin.com/" className="social-list__link"><i className="fab fa-linkedin"></i></a> </li>
+                           <li className="social-list__item"><a href="testttps://www.instagram.com/" className="social-list__link"><i className="fab fa-instagram"></i></a> </li>
+                           <li className="social-list__item"><a href="testttps://twitter.com/i/flow/login" className="social-list__link"><i className="fab fa-twitter"></i></a> </li>
+                           <li className="social-list__item"><a href="testttps://www.facebook.com/" className="social-list__link"><i className="fab fa-facebook-f"></i></a> </li>
                         </ul>
                      </li>
                   </ul>
@@ -39,17 +39,17 @@ export const App = () => {
             <div className="row">
                <div className="header-wrapper">
                   <div className="logo-wrapper">
-                     <a href="https://digitalindiahelpline.com" className="normal-logo"> <img src="https://digitalindiahelpline.com/assets/images/general/logo.png" alt="Laravel"/></a>
-                     <a href="https://digitalindiahelpline.com" className="dark-logo hidden"> <img src="https://digitalindiahelpline.com/assets/images/general/logo_white.png" alt="Laravel"/></a>
+                     <a href="testttps://digitalindiahelpline.com" className="normal-logo"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAAAZlBMVEX///8AAABISEjQ0ND8/Pz4+Pj19fXj4+PZ2dktLS3m5uZ+fn4EBATq6uqnp6dmZmbKyspXV1dxcXEfHx+9vb21tbWRkZElJSUODg6enp4aGhoUFBRBQUGtra1OTk7ExMQ2NjaJiYkdg5eeAAAJUUlEQVR4nO1dh3KjMBAFI4leTK8u//+TtysJWyT44jihxKN3kzmbYLKPrRLS2jA0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDReBmGMbC3Db4CG0dHkOEYh3VqaH4HavqnAt/8uHWI3mTlB1thbC/UiwgIMLAAK1el4PLkmf3Mswq3legVnv+PaiKPcchwrj2L+tvPPW0v2PUDosv0Ll/0y3AzLHi5cORff5qf8FZBGhrDSUQ87pQxszR/iksSdcBCLTlVALeFGXZxsJds3EabCWbJiJhDTQgS4Lv0LgYAMtUwqszmFGFSmnnrYu61Rqxc3vv9PQrF7obqLteccSjyfu0TQR0q8op4NuNcy8IuoD/iJvrdb7XiDMKD+qvgDtUqurENpKYKHV6FBc/DWl/MJsFxkxcxXI5XT3GuZSI3TiZ9x5cQ5W1vSL0EsvxUJv1CE86KTWppNahlWCPKtb+3M1jy0JbjPbjQ6PghI81hEtksci+TfpWdFcDty+dG+3JWtRUch9dVRZHV8IesldzzPKVzBy1dsjTjXcayzvswP4JxEIjxaioWRUhRnZhNygiSUtcylVD7KLFH3ZCfH2AOoX3F5gmGkgsIXldBVHN50RWzhQHWVGPfIzYaAH63mk+y6kOZjTsoT+yAOumcl38CLXA7WjqqThKk8uVhP6s8gYPTCSoKTpRwOpSe4zaebzcpKltPqFId1Eto5gsttFtnsUgwlD41yMCyEs1TpbEXjpILO5R7CQf4GVQmXKrcaVoe5HH+pFsYSkT0gGT76HOYXvAVxogwQ7FReLN+imqZnmfNSVWqrFH5/bP6T18NGRIKuVIzTOKcy655XjwRWKc18UKS2I3l7yy8CrVOKsNFHSiRgg3TACcflETa9dHHFxsf6xPSTL72YnOWoJlZHcHYjOTbr2RopjmJY7DuKJEkqU+dzVh/mJ5lflLqUOmIM0R2LlaIak/HITdjdgcOrsLAgCp8Ug4SyoL7cRwwEAogrY+EKxTQxQpklGzW0DlUgU+c37iiR6TJwByW3MsnRDZfPOUTaumpLjuSXfdtzrU5KrkaMUPre8pbG5T4odk7GGYrspdK3kXR8qsh+5uWQ+1NZvwKWvkE6GX8ILq7/klmA2fpCr7562EvRbMtHn/od2Oj78XQshUaRpWol/E0kPF3Gk2MeXrWyF3Ub1MLlg2ecD1k8/Cj2sCHODh/m063LR239NhzIlXUzPUYMq/jZTDjOsxfWxys0UBj1Sw7ZsPJyV5pNYeBK9YJeQzAvXJe7/hRXzFvL+YyHleBqg3XH/DAk/V1YWE6tNxaEP3ZaroC2MJctdvVPwOysyTwFTeZ1aDJPQ5N5HZrM09BkXocm8zQ0mdehyTyNKRlmS3iTseftMIeYssFFGp7yPBDeqVP9oZOcz4nzcQJxRTL2NZZIr0Nye55p3Q5z4EI5wytTOGtcZMYa/Mx9yt2J/L7G5TZpM10RsCIZ+SRynC+WA9BxNvKGEhc6iZdy/qUQj3D4lCExaKOse+hLVckrkqmmQh8FG6/+QGbAB5niZTy5C6V4oi5Xco5Q58tXJIPzkKemaUpfPFo+crvx8KU/jIjQ/kYyFRefnVQy4ldp7ji5IJneh+Urk/ENSiljTo8PVSI6kjmTG/hjCkmm5cpLLmZVuZUgY3OSOY8G9HxRjHELMgIhilHZNzLTj3EyfWcGfPqwDNzuVGc1J4PTPcHt+X+OpttuTcZIkEP+PzJXOP+I71LTNSP4QTIMz77eQxhX4W0uaysyId5iXDDijaw+ksl70E6IC23q7JCbmVnC2QUqVFmYwQ3tNou5DRnwmyuGACbJRM4Im4xk8Iksyl1UQVfmpvAZ/x4GOXhgP25LhlEWmWIW2psGZjcfyeR5zad28bVVSDIY2CbP4FKIJLdnTBuQgZDFydRmy255JgjGvIG/RrXlrK7NmIYpnEjRvEpKjD6ozZQaIuwhUFUbkiEQmhmlkdl1GSPUq+vArLO2btugazs3x98jmcK41N3BcQ5m3RtYEpSMGoegRTJ4CbIDMgSpwL8GyLiMEi/rWrOxksTCn8QCnjQUZK5mVxV524KHR5LMsc7MGG4BZitkwx8zbEcGpKDgM6FvdhAAKPW6roPQTAyZMEExYslWQRLwh2sDVmYBmQDMjAK/DNdlwTUEmY0DANxT8HBi98DBByV5LZgZZHTwI4pEUMoQjadgFFPnCTQYGuhh6DM5vKsGA+2Um1m+bWgGcweBCSSOzswJsMJnrTlFP+Bk4McQmmHwCUj8EL7YSIYys2sDn+FFUJdbJ020dxA3C7K6sgn6TNYiGSo0Y0gyHZgZiAphoTIjciMD5Qz4UESEsZIC70R1+3NbaIYxuze7zGxAHRQqxxa0wFiIgQEZcTJ4zHDMAGIcuAxEM04GFAmqMbsCzyNyMd59vcTKZA5NWZZX9NqADwEI8SAem2l5Q+TwqrkGzRBcqVJ3rm2I0IzcjUYsCiwsS66+32YI8OTgzJUVAJgZifm6LnYjAyDXdnJ6qswNrEhmMj5+PGyG8ymuU8pxJbDJEw4UlPC/XE5Aoz0Mm50HExr+ZEIjLcTn+BIVBqUXX50KRfZ9LZET+QdQT7vlhMaDqSYSTqaaPL7DwTnz8pmESYJcCLHP6iLC7aeansXrT9p3SOZ1aDJPQ5N5HZrM09BkXocm8zQ0mdehyTwNTeZ1LExmzQWnZOEFp2+1FPitFmm/1fL52Y0NS2HxjQ2zW06WwfJbTmY3Ay2CNTYDzW3TWgKrbNOa2UC3BJJ1NtDNbm38Zay2tXFu0+nvYs1Npw+2A/8OVt4OzP/k7Ebt38D6G7WNB1vof44tttAjZpsb/AxbNTcwHrWd+AE2bDsBCIeZhiAvX2xsCDJs1F6PqK1afraD9t6qZau+Mw+a6Hwfu2iig5htb/Qt7KO9kcDnxlPfwq4aTxkPWoI9h721BEOMDaYnzdq+xh6btRlzbfSewKSN3p76As43OPwf9tvg0HjUevIheOtJc5+tJxGzTUHnsfemoMajdq2fzvoT7VoNbM4qSqynGun2u26ki1BbHM/c9r/U4hjxRs2nEWpb8An+Xltw470ato+t9DG7q630+z/ZSh/xLl9yIDD9+onK/MtfP/FeXwxivNVXtiDe6Mt0JN7la440NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NLbCPycdgpT7jvihAAAAAElFTkSuQmCC" style={{maxWidth: '90px'}} alt="Laravel"/></a>
+                     <a href="testttps://digitalindiahelpline.com" className="dark-logo hidden"> <img src="data:image/png;base64,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" alt="Laravel"/></a>
                   </div>
                   <div className="menu-wrapper">
                      <ul className="main-menu">
-                        <li><a className="" aria-current="page" href="https://digitalindiahelpline.com">Home</a></li>
-                        <li><a className="" aria-current="page" href="https://digitalindiahelpline.com/plan">Plan</a></li>
-                        <li><a className="" aria-current="page" href="https://digitalindiahelpline.com/services">Services</a></li>
-                        <li><a className="" aria-current="page" href="https://digitalindiahelpline.com/blog">Blog</a></li>
-                        <li><a className="" aria-current="page" href="https://digitalindiahelpline.com/about">About</a></li>
-                        <li><a className="" aria-current="page" href="https://digitalindiahelpline.com/contact">Contact</a></li>
+                        <li><a className="" aria-current="page" href="testttps://digitalindiahelpline.com">Home</a></li>
+                        <li><a className="" aria-current="page" href="testttps://digitalindiahelpline.com/plan">Plan</a></li>
+                        <li><a className="" aria-current="page" href="testttps://digitalindiahelpline.com/services">Services</a></li>
+                        <li><a className="" aria-current="page" href="testttps://digitalindiahelpline.com/blog">Blog</a></li>
+                        <li><a className="" aria-current="page" href="testttps://digitalindiahelpline.com/about">About</a></li>
+                        <li><a className="" aria-current="page" href="testttps://digitalindiahelpline.com/contact">Contact</a></li>
                      </ul>
                   </div>
                   <div className="menu-right-wrapper">
@@ -61,7 +61,7 @@ export const App = () => {
                               <i className='fas fa-sun sun-icon'></i>
                            </div>
                         </li>
-                        <li><a className='btn btn--base' href="https://digitalindiahelpline.com/user/login"><i className="fas fa-sign-in-alt"></i> Login </a></li>
+                        <li><a className='btn btn--base' href="testttps://digitalindiahelpline.com/user/login"><i className="fas fa-sign-in-alt"></i> Login </a></li>
                         <li><i className="fas fa-bars sidebar-menu-show-hide"></i></li>
                      </ul>
                   </div>
@@ -75,8 +75,8 @@ export const App = () => {
          <div className="header-wrapper">
             <div className="logo-wrapper ms-3 mb-1">
                <div className="logo-wrapper">
-                  <a href="https://digitalindiahelpline.com" className="normal-logo" id="normal-logo"> <img src="https://digitalindiahelpline.com/assets/images/general/logo.png" alt="Laravel"/></a>
-                  <a href="https://digitalindiahelpline.com" className="dark-logo hidden" id="dark-logo"> <img src="https://digitalindiahelpline.com/assets/images/general/logo_white.png" alt="Laravel"/></a>
+                  <a href="testttps://digitalindiahelpline.com" className="normal-logo" id="normal-logo"> <img src="https://digitalindiahelpline.com/assets/images/general/logo.png" alt="Laravel"/></a>
+                  <a href="testttps://digitalindiahelpline.com" className="dark-logo hidden" id="dark-logo"> <img src="data:image/png;base64,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" alt="Laravel"/></a>
                </div>
             </div>
          </div>
@@ -84,25 +84,25 @@ export const App = () => {
       </div>
       <ul className="sidebar-menu-list">
          <li className="sidebar-menu-list__item ">
-            <a href="https://digitalindiahelpline.com" className="sidebar-menu-list__link">Home</a>
+            <a href="testttps://digitalindiahelpline.com" className="sidebar-menu-list__link">Home</a>
          </li>
          <li className="sidebar-menu-list__item ">
-            <a href="https://digitalindiahelpline.com/plan" className="sidebar-menu-list__link">Plan</a>
+            <a href="testttps://digitalindiahelpline.com/plan" className="sidebar-menu-list__link">Plan</a>
          </li>
          <li className="sidebar-menu-list__item ">
-            <a href="https://digitalindiahelpline.com/services" className="sidebar-menu-list__link">Services</a>
+            <a href="testttps://digitalindiahelpline.com/services" className="sidebar-menu-list__link">Services</a>
          </li>
          <li className="sidebar-menu-list__item ">
-            <a href="https://digitalindiahelpline.com/blog" className="sidebar-menu-list__link">Blog</a>
+            <a href="testttps://digitalindiahelpline.com/blog" className="sidebar-menu-list__link">Blog</a>
          </li>
          <li className="sidebar-menu-list__item ">
-            <a href="https://digitalindiahelpline.com/about" className="sidebar-menu-list__link">About</a>
+            <a href="testttps://digitalindiahelpline.com/about" className="sidebar-menu-list__link">About</a>
          </li>
          <li className="sidebar-menu-list__item ">
-            <a href="https://digitalindiahelpline.com/contact" className="sidebar-menu-list__link">Contact</a>
+            <a href="testttps://digitalindiahelpline.com/contact" className="sidebar-menu-list__link">Contact</a>
          </li>
          <li className="sidebar-menu-list__item ">
-            <a className="btn btn--base mt-2 mb-2 ms-3" href="https://digitalindiahelpline.com/user/login"><i className="fas fa-sign-in-alt"></i> Login </a>
+            <a className="btn btn--base mt-2 mb-2 ms-3" href="testttps://digitalindiahelpline.com/user/login"><i className="fas fa-sign-in-alt"></i> Login </a>
          </li>
       </ul>
    </div>
@@ -117,10 +117,10 @@ export const App = () => {
                   <span className="subtitle">Website | Software |Digital Marketing</span>
                   <h2>GROW-YOUR BUSINESS ONLINE</h2>
                   <p>Transform your ideas into reality with our expert software development services. From concept to deployment, we deliver custom Website Development solutions that meet your unique business needs</p>
-                  <a href="https://digitalindiahelpline.com/plan" target="_blank" className="btn btn--base me-2 mb-2">
+                  <a href="testttps://digitalindiahelpline.com/plan" target="_blank" className="btn btn--base me-2 mb-2">
                   Get Started  <i className="fa-sharp fas fa-arrow-right"></i>
                   </a>
-                  <a href="https://digitalindiahelpline.com/contact" target="_blank" className="btn btn--base outline mb-2">
+                  <a href="testttps://digitalindiahelpline.com/contact" target="_blank" className="btn btn--base outline mb-2">
                   Contact Us <i className="far fa-id-card"></i>
                   </a>
                </div>
@@ -243,7 +243,7 @@ export const App = () => {
                         </div>
                      </div>
                      <div className="about-bottom">
-                        <a href="https://digitalindiahelpline.com/about" target="_blank" className="btn btn--base me-3 mb-2">
+                        <a href="testttps://digitalindiahelpline.com/about" target="_blank" className="btn btn--base me-3 mb-2">
                         View More <i className="fas fa-solid fa-arrow-right"></i>
                         </a>
                      </div>
@@ -282,7 +282,7 @@ export const App = () => {
                   </div>
                   <div className="service-bottom-wrap d-flex justify-content-between align-items-center">
                      <p className="price-service">₹ 50,000.00</p>
-                     <a href="https://digitalindiahelpline.com/service/hospital-management-software/14" className="btn btn--base"> Buy now <i className="fas fa-arrow-right"></i></a>
+                     <a href="testttps://digitalindiahelpline.com/service/hospital-management-software/14" className="btn btn--base"> Buy now <i className="fas fa-arrow-right"></i></a>
                   </div>
                </div>
             </div>
@@ -301,7 +301,7 @@ export const App = () => {
                   </div>
                   <div className="service-bottom-wrap d-flex justify-content-between align-items-center">
                      <p className="price-service">₹ 15,000.00</p>
-                     <a href="https://digitalindiahelpline.com/service/library-management-software/13" className="btn btn--base"> Buy now <i className="fas fa-arrow-right"></i></a>
+                     <a href="testttps://digitalindiahelpline.com/service/library-management-software/13" className="btn btn--base"> Buy now <i className="fas fa-arrow-right"></i></a>
                   </div>
                </div>
             </div>
@@ -320,7 +320,7 @@ export const App = () => {
                   </div>
                   <div className="service-bottom-wrap d-flex justify-content-between align-items-center">
                      <p className="price-service">₹ 25,000.00</p>
-                     <a href="https://digitalindiahelpline.com/service/school-management-software/12" className="btn btn--base"> Buy now <i className="fas fa-arrow-right"></i></a>
+                     <a href="testttps://digitalindiahelpline.com/service/school-management-software/12" className="btn btn--base"> Buy now <i className="fas fa-arrow-right"></i></a>
                   </div>
                </div>
             </div>
@@ -339,7 +339,7 @@ export const App = () => {
                   </div>
                   <div className="service-bottom-wrap d-flex justify-content-between align-items-center">
                      <p className="price-service">₹ 6,000.00</p>
-                     <a href="https://digitalindiahelpline.com/service/social-media-management/9" className="btn btn--base"> Buy now <i className="fas fa-arrow-right"></i></a>
+                     <a href="testttps://digitalindiahelpline.com/service/social-media-management/9" className="btn btn--base"> Buy now <i className="fas fa-arrow-right"></i></a>
                   </div>
                </div>
             </div>
@@ -358,7 +358,7 @@ export const App = () => {
                   </div>
                   <div className="service-bottom-wrap d-flex justify-content-between align-items-center">
                      <p className="price-service">₹ 1,000.00</p>
-                     <a href="https://digitalindiahelpline.com/service/branding-and-identity/8" className="btn btn--base"> Buy now <i className="fas fa-arrow-right"></i></a>
+                     <a href="testttps://digitalindiahelpline.com/service/branding-and-identity/8" className="btn btn--base"> Buy now <i className="fas fa-arrow-right"></i></a>
                   </div>
                </div>
             </div>
@@ -377,7 +377,7 @@ export const App = () => {
                   </div>
                   <div className="service-bottom-wrap d-flex justify-content-between align-items-center">
                      <p className="price-service">₹ 2,000.00</p>
-                     <a href="https://digitalindiahelpline.com/service/content-creation/7" className="btn btn--base"> Buy now <i className="fas fa-arrow-right"></i></a>
+                     <a href="testttps://digitalindiahelpline.com/service/content-creation/7" className="btn btn--base"> Buy now <i className="fas fa-arrow-right"></i></a>
                   </div>
                </div>
             </div>
@@ -452,7 +452,7 @@ export const App = () => {
                               <div className="waves wave-3"></div>
                            </div>
                         </div>
-                        <a className="play-video popup_video" data-fancybox="" href="https://www.youtube.com/channel/UCLcgMzz8BL2mTSLPauZuJzQ">
+                        <a className="play-video popup_video" data-fancybox="" href="testttps://www.youtube.com/channel/UCLcgMzz8BL2mTSLPauZuJzQ">
                         <span className="play-btn"> <i className="fa fa-play"></i></span>
                         </a>
                      </div>
@@ -560,7 +560,7 @@ export const App = () => {
                      </ul>
                   </div>
                   <div className="pricing-plan-item__bottom">
-                     <a href="https://digitalindiahelpline.com/user/payment/8" className="btn btn--base me-2 mb-2">
+                     <a href="testttps://digitalindiahelpline.com/user/payment/8" className="btn btn--base me-2 mb-2">
                      Get Started <i className="fas fa-arrow-right"></i>
                      </a>
                   </div>
@@ -596,7 +596,7 @@ export const App = () => {
                      </ul>
                   </div>
                   <div className="pricing-plan-item__bottom">
-                     <a href="https://digitalindiahelpline.com/user/payment/7" className="btn btn--base me-2 mb-2">
+                     <a href="testttps://digitalindiahelpline.com/user/payment/7" className="btn btn--base me-2 mb-2">
                      Get Started <i className="fas fa-arrow-right"></i>
                      </a>
                   </div>
@@ -633,7 +633,7 @@ export const App = () => {
                      </ul>
                   </div>
                   <div className="pricing-plan-item__bottom">
-                     <a href="https://digitalindiahelpline.com/user/payment/6" className="btn btn--base me-2 mb-2">
+                     <a href="testttps://digitalindiahelpline.com/user/payment/6" className="btn btn--base me-2 mb-2">
                      Get Started <i className="fas fa-arrow-right"></i>
                      </a>
                   </div>
@@ -658,7 +658,7 @@ export const App = () => {
          <div className="row gy-4 align-items-center justify-content-center">
             <div className="col-lg-4 col-md-4">
                <div className="Our-Project">
-                  <a href="https://digitalindiahelpline.com/portfolio/mysore-college-of-engineering-website-redesign/1">
+                  <a href="testttps://digitalindiahelpline.com/portfolio/mysore-college-of-engineering-website-redesign/1">
                      <img className="img-1" src="https://digitalindiahelpline.com/assets/images/frontend/portfolioImage/65003d5b9cb6b1694514523.png" alt="image"/>
                      <div className="content">
                         <h4>
@@ -673,7 +673,7 @@ export const App = () => {
             </div>
             <div className="col-lg-4 col-md-4">
                <div className="Our-Project">
-                  <a href="https://digitalindiahelpline.com/portfolio/rehnuma-foundation-ngo-crowd-funding-website/2">
+                  <a href="testttps://digitalindiahelpline.com/portfolio/rehnuma-foundation-ngo-crowd-funding-website/2">
                      <img className="img-1" src="https://digitalindiahelpline.com/assets/images/frontend/portfolioImage/65080e963b51b1695026838.png" alt="image"/>
                      <div className="content">
                         <h4>
@@ -688,7 +688,7 @@ export const App = () => {
             </div>
             <div className="col-lg-4 col-md-4">
                <div className="Our-Project">
-                  <a href="https://digitalindiahelpline.com/portfolio/elevating-educational-excellence-aaryabhat-education-societys-website-development-portfolio/3">
+                  <a href="testttps://digitalindiahelpline.com/portfolio/elevating-educational-excellence-aaryabhat-education-societys-website-development-portfolio/3">
                      <img className="img-1" src="https://digitalindiahelpline.com/assets/images/frontend/portfolioImage/650ac5c40c5471695204804.png" alt="image"/>
                      <div className="content">
                         <h4>
@@ -703,7 +703,7 @@ export const App = () => {
             </div>
             <div className="col-lg-4 col-md-4">
                <div className="Our-Project">
-                  <a href="https://digitalindiahelpline.com/portfolio/acetechno-academy-elevating-web-development-services-to-new-heights/4">
+                  <a href="testttps://digitalindiahelpline.com/portfolio/acetechno-academy-elevating-web-development-services-to-new-heights/4">
                      <img className="img-1" src="https://digitalindiahelpline.com/assets/images/frontend/portfolioImage/650acaffc94251695206143.png" alt="image"/>
                      <div className="content">
                         <h4>
@@ -718,7 +718,7 @@ export const App = () => {
             </div>
             <div className="col-lg-4 col-md-4">
                <div className="Our-Project">
-                  <a href="https://digitalindiahelpline.com/portfolio/aditya-nawbade-website-development-services/5">
+                  <a href="testttps://digitalindiahelpline.com/portfolio/aditya-nawbade-website-development-services/5">
                      <img className="img-1" src="https://digitalindiahelpline.com/assets/images/frontend/portfolioImage/650acdf4dccb11695206900.png" alt="image"/>
                      <div className="content">
                         <h4>
@@ -733,7 +733,7 @@ export const App = () => {
             </div>
             <div className="col-lg-4 col-md-4">
                <div className="Our-Project">
-                  <a href="https://digitalindiahelpline.com/portfolio/elevate-your-online-presence-with-aiisedus-website-development-services/6">
+                  <a href="testttps://digitalindiahelpline.com/portfolio/elevate-your-online-presence-with-aiisedus-website-development-services/6">
                      <img className="img-1" src="https://digitalindiahelpline.com/assets/images/frontend/portfolioImage/650ad06aa14a71695207530.png" alt="image"/>
                      <div className="content">
                         <h4>
@@ -1066,7 +1066,7 @@ export const App = () => {
             <div className="col-lg-4 col-md-6">
                <div className="blog-item">
                   <div className="blog-item__thumb">
-                     <a href="https://digitalindiahelpline.com/blog/the-proven-method-for-choosing-the-best-brand-name-watch-and-succeed/180" className="blog-item__thumb-link">
+                     <a href="testttps://digitalindiahelpline.com/blog/the-proven-method-for-choosing-the-best-brand-name-watch-and-succeed/180" className="blog-item__thumb-link">
                      <img src="https://digitalindiahelpline.com/assets/images/frontend/blog/thumb_657951c11e64a1702449601.jpg" alt="blog-img"/>
                      </a>
                      <ul className="text-list inline">
@@ -1074,18 +1074,18 @@ export const App = () => {
                      </ul>
                   </div>
                   <div className="blog-item__content">
-                     <h4 className="blog-item__title"><a href="https://digitalindiahelpline.com/blog/the-proven-method-for-choosing-the-best-brand-name-watch-and-succeed/180" className="blog-item__title-link">
+                     <h4 className="blog-item__title"><a href="testttps://digitalindiahelpline.com/blog/the-proven-method-for-choosing-the-best-brand-name-watch-and-succeed/180" className="blog-item__title-link">
                         The Proven Method for Choosing the Best Brand Name...
                         </a>
                      </h4>
-                     <a href="https://digitalindiahelpline.com/blog/the-proven-method-for-choosing-the-best-brand-name-watch-and-succeed/180" className="btn--simple">Read more <span className="btn--simple__icon"><i className="fas fa-arrow-right"></i></span></a>
+                     <a href="testttps://digitalindiahelpline.com/blog/the-proven-method-for-choosing-the-best-brand-name-watch-and-succeed/180" className="btn--simple">Read more <span className="btn--simple__icon"><i className="fas fa-arrow-right"></i></span></a>
                   </div>
                </div>
             </div>
             <div className="col-lg-4 col-md-6">
                <div className="blog-item">
                   <div className="blog-item__thumb">
-                     <a href="https://digitalindiahelpline.com/blog/top-10-social-media-websites/179" className="blog-item__thumb-link">
+                     <a href="testttps://digitalindiahelpline.com/blog/top-10-social-media-websites/179" className="blog-item__thumb-link">
                      <img src="https://digitalindiahelpline.com/assets/images/frontend/blog/thumb_6567135d61dc21701253981.jpg" alt="blog-img"/>
                      </a>
                      <ul className="text-list inline">
@@ -1093,18 +1093,18 @@ export const App = () => {
                      </ul>
                   </div>
                   <div className="blog-item__content">
-                     <h4 className="blog-item__title"><a href="https://digitalindiahelpline.com/blog/top-10-social-media-websites/179" className="blog-item__title-link">
+                     <h4 className="blog-item__title"><a href="testttps://digitalindiahelpline.com/blog/top-10-social-media-websites/179" className="blog-item__title-link">
                         Top 10 social media websites
                         </a>
                      </h4>
-                     <a href="https://digitalindiahelpline.com/blog/top-10-social-media-websites/179" className="btn--simple">Read more <span className="btn--simple__icon"><i className="fas fa-arrow-right"></i></span></a>
+                     <a href="testttps://digitalindiahelpline.com/blog/top-10-social-media-websites/179" className="btn--simple">Read more <span className="btn--simple__icon"><i className="fas fa-arrow-right"></i></span></a>
                   </div>
                </div>
             </div>
             <div className="col-lg-4 col-md-6">
                <div className="blog-item">
                   <div className="blog-item__thumb">
-                     <a href="https://digitalindiahelpline.com/blog/top-10-part-time-jobs/178" className="blog-item__thumb-link">
+                     <a href="testttps://digitalindiahelpline.com/blog/top-10-part-time-jobs/178" className="blog-item__thumb-link">
                      <img src="https://digitalindiahelpline.com/assets/images/frontend/blog/thumb_65670a1095f051701251600.jpg" alt="blog-img"/>
                      </a>
                      <ul className="text-list inline">
@@ -1112,11 +1112,11 @@ export const App = () => {
                      </ul>
                   </div>
                   <div className="blog-item__content">
-                     <h4 className="blog-item__title"><a href="https://digitalindiahelpline.com/blog/top-10-part-time-jobs/178" className="blog-item__title-link">
+                     <h4 className="blog-item__title"><a href="testttps://digitalindiahelpline.com/blog/top-10-part-time-jobs/178" className="blog-item__title-link">
                         Top 10 Part Time Jobs
                         </a>
                      </h4>
-                     <a href="https://digitalindiahelpline.com/blog/top-10-part-time-jobs/178" className="btn--simple">Read more <span className="btn--simple__icon"><i className="fas fa-arrow-right"></i></span></a>
+                     <a href="testttps://digitalindiahelpline.com/blog/top-10-part-time-jobs/178" className="btn--simple">Read more <span className="btn--simple__icon"><i className="fas fa-arrow-right"></i></span></a>
                   </div>
                </div>
             </div>
@@ -1126,28 +1126,28 @@ export const App = () => {
    <div className="client pb-60 ">
       <div className="container">
          <div className="client-logos client-slider">
-            <a href="https://themillenniumpublicschoolbdr.in/">
+            <a href="testttps://themillenniumpublicschoolbdr.in/">
             <img src="https://digitalindiahelpline.com/assets/images/frontend/brand/6500117389b961694503283.png" alt="brand-image" />
             </a>
-            <a href="http://goldengateglb.edumummy.com/site/login">
+            <a href="testttp://goldengateglb.edumummy.com/site/login">
             <img src="https://digitalindiahelpline.com/assets/images/frontend/brand/650011148945a1694503188.jpg" alt="brand-image" />
             </a>
-            <a href="https://ruchitb.in/">
+            <a href="testttps://ruchitb.in/">
             <img src="https://digitalindiahelpline.com/assets/images/frontend/brand/650010dfce0561694503135.jpeg" alt="brand-image" />
             </a>
-            <a href="https://lassiehomedecor.com/">
+            <a href="testttps://lassiehomedecor.com/">
             <img src="https://digitalindiahelpline.com/assets/images/frontend/brand/650010bb58f531694503099.png" alt="brand-image" />
             </a>
-            <a href="https://mycem.edu.in/">
+            <a href="testttps://mycem.edu.in/">
             <img src="https://digitalindiahelpline.com/assets/images/frontend/brand/650010919daba1694503057.png" alt="brand-image" />
             </a>
-            <a href="https://siddharthdegreecollege.in/">
+            <a href="testttps://siddharthdegreecollege.in/">
             <img src="https://digitalindiahelpline.com/assets/images/frontend/brand/6500106538ec61694503013.png" alt="brand-image" />
             </a>
-            <a href="https://sbpatildentalcollege.in/">
+            <a href="testttps://sbpatildentalcollege.in/">
             <img src="https://digitalindiahelpline.com/assets/images/frontend/brand/65001040dd4201694502976.png" alt="brand-image" />
             </a>
-            <a href="https://rehnumafoundation.org/">
+            <a href="testttps://rehnumafoundation.org/">
             <img src="https://digitalindiahelpline.com/assets/images/frontend/brand/65000fd0b511c1694502864.png" alt="brand-image" />
             </a>
          </div>
@@ -1160,12 +1160,12 @@ export const App = () => {
                <div className="col-xl-3 col-sm-6">
                   <div className="footer-item">
                      <div className="footer-item__logo">
-                        <a href="https://digitalindiahelpline.com" className="footer-logo-normal"> <img src="https://digitalindiahelpline.com/assets/images/general/logo_white.png" alt="Laravel"/></a>
-                        <a href="https://digitalindiahelpline.com" className="footer-logo-dark hidden"> <img src="https://digitalindiahelpline.com/assets/images/general/logo_white.png" alt="Laravel"/></a>
+                        <a href="testttps://digitalindiahelpline.com" className="footer-logo-normal"> <img src="data:image/png;base64,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" alt="Laravel"/></a>
+                        <a href="testttps://digitalindiahelpline.com" className="footer-logo-dark hidden"> <img src="data:image/png;base64,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" alt="Laravel"/></a>
                         // 
                      </div>
                      <p className="footer-item__desc mb-3">From concept to deployment, we deliver custom Website Development solutions that meet your unique business needs</p>
-                     <form action="https://digitalindiahelpline.com/subscribe" method="POST">
+                     <form action="etsts://digitalindiahelpline.com/subscribe" method="POST">
                         <input type="hidden" name="_token" value="YJTvOnA4BeL5WHNP4QCNpewRwQrTU2h3c13ttoLN"/>                            
                         <div className="search-box footer w-100">
                            <input type="text" name="email" className="form--control" placeholder="Email"/>
@@ -1178,14 +1178,14 @@ export const App = () => {
                   <div className="footer-item">
                      <h5 className="footer-item__title">Userful Link</h5>
                      <ul className="footer-menu">
-                        <li className="footer-menu__item"><a href="https://digitalindiahelpline.com/" className="footer-menu__link">Home</a></li>
-                        <li className="footer-menu__item"><a href="https://digitalindiahelpline.com/about" className="footer-menu__link">About</a></li>
-                        <li className="footer-menu__item"><a href="https://digitalindiahelpline.com/cookie-policy" className="footer-menu__link">Cookie Policy</a></li>
-                        <li className="footer-menu__item"><a href="https://digitalindiahelpline.com/policy/privacy-policy/42" className="footer-menu__link">Privacy Policy</a></li>
-                        <li className="footer-menu__item"><a href="https://digitalindiahelpline.com/policy/terms-of-service/43" className="footer-menu__link">Terms of Service</a></li>
-                        <li className="footer-menu__item"><a href="https://digitalindiahelpline.com/policy/terms-and-conditions/162" className="footer-menu__link">Terms and Conditions</a></li>
-                        <li className="footer-menu__item"><a href="https://digitalindiahelpline.com/policy/refund-policy/163" className="footer-menu__link">Refund Policy</a></li>
-                        <li className="footer-menu__item"><a href="https://digitalindiahelpline.com/policy/shipping-and-delivery/165" className="footer-menu__link">Shipping and Delivery</a></li>
+                        <li className="footer-menu__item"><a href="testttps://digitalindiahelpline.com/" className="footer-menu__link">Home</a></li>
+                        <li className="footer-menu__item"><a href="testttps://digitalindiahelpline.com/about" className="footer-menu__link">About</a></li>
+                        <li className="footer-menu__item"><a href="testttps://digitalindiahelpline.com/cookie-policy" className="footer-menu__link">Cookie Policy</a></li>
+                        <li className="footer-menu__item"><a href="testttps://digitalindiahelpline.com/policy/privacy-policy/42" className="footer-menu__link">Privacy Policy</a></li>
+                        <li className="footer-menu__item"><a href="testttps://digitalindiahelpline.com/policy/terms-of-service/43" className="footer-menu__link">Terms of Service</a></li>
+                        <li className="footer-menu__item"><a href="testttps://digitalindiahelpline.com/policy/terms-and-conditions/162" className="footer-menu__link">Terms and Conditions</a></li>
+                        <li className="footer-menu__item"><a href="testttps://digitalindiahelpline.com/policy/refund-policy/163" className="footer-menu__link">Refund Policy</a></li>
+                        <li className="footer-menu__item"><a href="testttps://digitalindiahelpline.com/policy/shipping-and-delivery/165" className="footer-menu__link">Shipping and Delivery</a></li>
                      </ul>
                   </div>
                </div>
@@ -1195,10 +1195,10 @@ export const App = () => {
                      <div className="blog-sidebar">
                         <div className="latest-blog">
                            <div className="latest-blog__thumb">
-                              <a href="https://digitalindiahelpline.com/blog/the-proven-method-for-choosing-the-best-brand-name-watch-and-succeed/180"> <img src="https://digitalindiahelpline.com/assets/images/frontend/blog/thumb_657951c11e64a1702449601.jpg" alt="blog-img"/></a>
+                              <a href="testttps://digitalindiahelpline.com/blog/the-proven-method-for-choosing-the-best-brand-name-watch-and-succeed/180"> <img src="https://digitalindiahelpline.com/assets/images/frontend/blog/thumb_657951c11e64a1702449601.jpg" alt="blog-img"/></a>
                            </div>
                            <div className="latest-blog__content">
-                              <h6 className="latest-blog__title"><a href="https://digitalindiahelpline.com/blog/the-proven-method-for-choosing-the-best-brand-name-watch-and-succeed/180">
+                              <h6 className="latest-blog__title"><a href="testttps://digitalindiahelpline.com/blog/the-proven-method-for-choosing-the-best-brand-name-watch-and-succeed/180">
                                  The Proven Method for Choosing the Best Brand Name...
                                  </a>
                               </h6>
@@ -1207,10 +1207,10 @@ export const App = () => {
                         </div>
                         <div className="latest-blog">
                            <div className="latest-blog__thumb">
-                              <a href="https://digitalindiahelpline.com/blog/top-10-social-media-websites/179"> <img src="https://digitalindiahelpline.com/assets/images/frontend/blog/thumb_6567135d61dc21701253981.jpg" alt="blog-img"/></a>
+                              <a href="testttps://digitalindiahelpline.com/blog/top-10-social-media-websites/179"> <img src="https://digitalindiahelpline.com/assets/images/frontend/blog/thumb_6567135d61dc21701253981.jpg" alt="blog-img"/></a>
                            </div>
                            <div className="latest-blog__content">
-                              <h6 className="latest-blog__title"><a href="https://digitalindiahelpline.com/blog/top-10-social-media-websites/179">
+                              <h6 className="latest-blog__title"><a href="testttps://digitalindiahelpline.com/blog/top-10-social-media-websites/179">
                                  Top 10 social media websites
                                  </a>
                               </h6>
@@ -1219,10 +1219,10 @@ export const App = () => {
                         </div>
                         <div className="latest-blog">
                            <div className="latest-blog__thumb">
-                              <a href="https://digitalindiahelpline.com/blog/top-10-part-time-jobs/178"> <img src="https://digitalindiahelpline.com/assets/images/frontend/blog/thumb_65670a1095f051701251600.jpg" alt="blog-img"/></a>
+                              <a href="testttps://digitalindiahelpline.com/blog/top-10-part-time-jobs/178"> <img src="https://digitalindiahelpline.com/assets/images/frontend/blog/thumb_65670a1095f051701251600.jpg" alt="blog-img"/></a>
                            </div>
                            <div className="latest-blog__content">
-                              <h6 className="latest-blog__title"><a href="https://digitalindiahelpline.com/blog/top-10-part-time-jobs/178">
+                              <h6 className="latest-blog__title"><a href="testttps://digitalindiahelpline.com/blog/top-10-part-time-jobs/178">
                                  Top 10 Part Time Jobs
                                  </a>
                               </h6>
@@ -1257,16 +1257,16 @@ export const App = () => {
                               <i className="fas fa-phone"></i>
                            </div>
                            <div className="footer-contact-menu__item-content">
-                              <p>+91 80500 61666</p>
+                              <p>+91 7772999292</p>
                            </div>
                         </li>
                      </ul>
                      <ul className="social-list">
-                        <li className="social-list__item"><a href="https://www.youtube.com/channel/UCLcgMzz8BL2mTSLPauZuJzQ" className="social-list__link" target="_blank"><i className="fab fa-youtube"></i></a> </li>
-                        <li className="social-list__item"><a href="https://www.linkedin.com/" className="social-list__link" target="_blank"><i className="fab fa-linkedin"></i></a> </li>
-                        <li className="social-list__item"><a href="https://www.instagram.com/" className="social-list__link" target="_blank"><i className="fab fa-instagram"></i></a> </li>
-                        <li className="social-list__item"><a href="https://twitter.com/i/flow/login" className="social-list__link" target="_blank"><i className="fab fa-twitter"></i></a> </li>
-                        <li className="social-list__item"><a href="https://www.facebook.com/" className="social-list__link" target="_blank"><i className="fab fa-facebook-f"></i></a> </li>
+                        <li className="social-list__item"><a href="testttps://www.youtube.com/channel/UCLcgMzz8BL2mTSLPauZuJzQ" className="social-list__link" target="_blank"><i className="fab fa-youtube"></i></a> </li>
+                        <li className="social-list__item"><a href="testttps://www.linkedin.com/" className="social-list__link" target="_blank"><i className="fab fa-linkedin"></i></a> </li>
+                        <li className="social-list__item"><a href="testttps://www.instagram.com/" className="social-list__link" target="_blank"><i className="fab fa-instagram"></i></a> </li>
+                        <li className="social-list__item"><a href="testttps://twitter.com/i/flow/login" className="social-list__link" target="_blank"><i className="fab fa-twitter"></i></a> </li>
+                        <li className="social-list__item"><a href="testttps://www.facebook.com/" className="social-list__link" target="_blank"><i className="fab fa-facebook-f"></i></a> </li>
                      </ul>
                   </div>
                </div>
@@ -1278,18 +1278,18 @@ export const App = () => {
             <div className="row gy-2">
                <div className="col-lg-6 col-md-12">
                   <div className="bottom-footer-text">
-                     <p>Copyright 2023. All rights reserved. A Unit of JANANI CONSULTANCY SERVICES </p>
+                     <p>Copyright 2024. All rights reserved. Magazines </p>
                   </div>
                </div>
                <div className="col-lg-6 col-md-12">
                   <div className="bottom-footer-menu">
                      <ul>
-                        <li><a href="https://digitalindiahelpline.com/policy/shipping-and-delivery/165" target="_blank">Shipping and Delivery</a></li>
-                        <li><a href="https://digitalindiahelpline.com/policy/refund-policy/163" target="_blank">Refund Policy</a></li>
-                        <li><a href="https://digitalindiahelpline.com/policy/terms-and-conditions/162" target="_blank">Terms and Conditions</a></li>
-                        <li><a href="https://digitalindiahelpline.com/policy/terms-of-service/43" target="_blank">Terms of Service</a></li>
-                        <li><a href="https://digitalindiahelpline.com/policy/privacy-policy/42" target="_blank">Privacy Policy</a></li>
-                        <li><a href="https://digitalindiahelpline.com/cookie-policy" target="_blank">Cookie Policy</a></li>
+                        <li><a href="testttps://digitalindiahelpline.com/policy/shipping-and-delivery/165" target="_blank">Shipping and Delivery</a></li>
+                        <li><a href="testttps://digitalindiahelpline.com/policy/refund-policy/163" target="_blank">Refund Policy</a></li>
+                        <li><a href="testttps://digitalindiahelpline.com/policy/terms-and-conditions/162" target="_blank">Terms and Conditions</a></li>
+                        <li><a href="testttps://digitalindiahelpline.com/policy/terms-of-service/43" target="_blank">Terms of Service</a></li>
+                        <li><a href="testttps://digitalindiahelpline.com/policy/privacy-policy/42" target="_blank">Privacy Policy</a></li>
+                        <li><a href="testttps://digitalindiahelpline.com/cookie-policy" target="_blank">Cookie Policy</a></li>
                      </ul>
                   </div>
                </div>
